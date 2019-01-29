@@ -1,4 +1,4 @@
-# BillCalculator
+# Bill Calculator
 Universal Windows Platform (UWP) application to calculate electricity, water and gas in Egypt.
 
 All files and lines of codes in this project are published for training purpose only. and it is not authorized for commercial use.
